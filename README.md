@@ -173,7 +173,7 @@ src/
 git clone https://github.com/umitarat-dev/Blog-App.git
 
 # Enter project
-cd React-Project-13-blog-app
+cd Blogg-App
 
 # Install dependencies
 yarn
