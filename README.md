@@ -20,7 +20,7 @@ Modern, mobile-first blog application with Firebase Auth, Firestore CRUD, likes,
       🖥️ Live Demo
     </a>
      |
-    <a href="https://github.com/Umit8098/React-Project-13-blog-app.git">
+    <a href="https://github.com/umitarat-dev/Blog-App.git">
       📂 Repository
     </a>
   </h3>
@@ -28,7 +28,7 @@ Modern, mobile-first blog application with Firebase Auth, Firestore CRUD, likes,
 
 
 <div align="center">
-  <img src="./blog-app.gif" alt="blog-app-gif" width="800"/>
+  <img src="assets/blog-app.gif" alt="blog-app-gif" width="800"/>
 </div>
 
 
@@ -43,15 +43,16 @@ Modern, mobile-first blog application with Firebase Auth, Firestore CRUD, likes,
 - [🔐 Firebase Notes](#-firebase-notes)
 - [📌 About This Project](#-about-this-project)
 - [🙏 Acknowledgements](#-acknowledgements)
-- [📬 Contact](#-contact)
+- [📬 Contact Information](#-contact-information)
+
 
 ---
 
 ## ✨ Overview
 
-<div align="center">
+<!-- <div align="center">
   <img src="./blog-app-new.png" alt="blog-overview" width="800"/>
-</div>
+</div> -->
 
 ---
 
@@ -167,7 +168,7 @@ src/
 
 ```bash
 # Clone repository
-git clone https://github.com/Umit8098/React-Project-13-blog-app.git
+git clone https://github.com/umitarat-dev/Blog-App.git
 
 # Enter project
 cd React-Project-13-blog-app
@@ -223,7 +224,10 @@ Bu proje aşağıdaki konuları gerçek bir uygulama senaryosu ile pekiştirmek 
 
 ---
 
-## 📬 Contact
+## 📬 Contact Information
 
-- GitHub: [@Umit8098](https://github.com/Umit8098)
-- LinkedIn: [@umit-arat](https://linkedin.com/in/umit-arat/)
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+* **LinkedIn:** [linkedin.com/in/umit-arat](https://www.linkedin.com/in/umit-arat/)
+* **Email:** [umitarat8098@gmail.com](mailto:umitarat8098@gmail.com)
+* **GitHub:** [github.com/umitarat-dev](https://github.com/umitarat-dev) (Current Workspace)
