@@ -29,7 +29,7 @@ Modern, mobile-first blog application with Firebase Auth, Firestore CRUD, likes,
 
 <div align="center">
   <a href="https://blog-umitdev.netlify.app/">
-    <img src="assets/blog-app.gif" alt="blog-app-gif" width="800"/>
+    <img src="assets/blog-app.gif" alt="blog-app-gif" width="700"/>
   </a>
 </div>
 
